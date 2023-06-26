@@ -151,7 +151,7 @@ h3 {
 }
 .rewards div::after {
   display: inline-block;
-  content: url(/images/badge.png);
+  content: url(images/badge.png);
   height: 40px;
   width: 40px;
 }
